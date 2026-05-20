@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif" style="display:block;width:100%;max-width:1200px;height:auto;border-radius:12px;">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Vu+Duc+Thuan+%F0%9F%91%8B;%F0%9F%8E%93+Smart+Embedded+Systems+%26+IoT+Student;%F0%9F%92%BB+Passionate+about+Edge+AI+%26+Hardware;%F0%9F%8E%B9+Keyboardist+%26+Music+Lover" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tran+Thi+Quynh+Chi+%F0%9F%91%8B;%F0%9F%8E%93+Smart+Embedded+Systems+%26+IoT+Student;%F0%9F%92%BB+Passionate+about+Edge+AI+%26+Hardware;%F0%9F%8E%B9+Keyboardist+%26+Music+Lover" alt="Typing SVG">
   </a>
 
   <br/>
