@@ -3,7 +3,7 @@
   <!-- Banner GIF -->
   <img 
     src="https://cdn.lospec.com/gallery/cats-in-the-blue-lake-731334.gif"
-    width="850"
+    width="550"
     style="border-radius:18px;"
     alt="Coding Banner"
   />
