@@ -1,16 +1,30 @@
 <div align="center">
 
-  <img src="https://i.pinimg.com/originals/6f/9e/16/6f9e16b7d8c55d9a74d4b5b7e9f57b8d.gif" style="display:block;width:100%;max-width:1200px;height:auto;border-radius:18px;">
+  <!-- Banner GIF -->
+  <img 
+    src="https://cdn.lospec.com/gallery/cats-in-the-blue-lake-731334.gif"
+    width="850"
+    style="border-radius:18px;"
+    alt="Coding Banner"
+  />
 
-  <br/>
+  <br/><br/>
 
+  <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3200&pause=1000&color=FF69B4&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Tran+Thi+Quynh+Chi+%F0%9F%92%96;%F0%9F%8E%93+Electronics+%26+Telecommunications+Student;%F0%9F%93%A1+Passionate+about+Wireless+Communication;%F0%9F%A4%96+Exploring+Embedded+AI+%26+IoT;%F0%9F%8C%B8+Dreamer+%7C+Builder+%7C+Learner" alt="Typing SVG">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3200&pause=1000&color=F472B6&center=true&vCenter=true&width=900&lines=Hi+there%2C+I%27m+Tran+Thi+Quynh+Chi+%F0%9F%8C%B8;%F0%9F%8E%93+Electronics+%26+Telecommunications+Student+at+HUST;%F0%9F%A7%AA+Future+Software+Tester+%7C+QA+Enthusiast;%E2%98%81%EF%B8%8F+Exploring+AI%2C+Cloud+%26+Modern+Technologies;%F0%9F%92%BB+Coding+with+logic%2C+learning+with+passion&v=1" 
+      alt="Typing SVG"
+    />
   </a>
 
-  <br/>
+  <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=quynhchi&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile views"/>
+  <!-- Profile Views -->
+  <img 
+    src="https://komarev.com/ghpvc/?username=quynhchi03&label=Profile%20Views&color=f472b6&style=for-the-badge" 
+    alt="Profile views"
+  />
 
 </div>
 
@@ -18,62 +32,46 @@
 
 # 🌸 About Me
 
-<img align="right" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2k4ZmNvdGN6cHh6aTJ6NjRjOXc3ZGE5cnk3NmU5cWtnb3JrZnYwbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
+🎓 I am a **4th-year Electronics and Telecommunications student** at **Hanoi University of Science and Technology (HUST)**.
 
-🎓 Student of **Electronics and Telecommunications** at **Hanoi University of Science and Technology (HUST)**
+🧪 I am currently oriented toward **Software Testing / QA**, while also exploring the fields of **Artificial Intelligence** and **Cloud Computing**.
 
-📡 Passionate about:
-- Wireless Communication
-- Embedded Systems
-- IoT & Edge Intelligence
-- Embedded AI
+💻 I enjoy learning technologies that connect logic, software quality, and real-world engineering.
 
-💡 I enjoy creating smart systems that combine:
-- Hardware
-- Software
-- Artificial Intelligence
+✨ My simple coding mindset:
 
-🌷 Currently exploring:
-- Embedded Linux
-- ESP32 & STM32 Development
-- Computer Vision on Edge Devices
-- IoT Communication Protocols
+> **Code with care. Test with purpose. Learn every day.**
 
-✨ Always learning, building, and collaborating on meaningful technology projects.
-
-<br clear="right"/>
+<br/>
 
 ---
 
-# 🚀 Highlight Projects
+# 💡 Interests
 
-## 📶 Smart Indoor Navigation System
+- 🧪 **Software Testing / Quality Assurance**
+- 🤖 **Artificial Intelligence**
+- ☁️ **Cloud Computing**
+- 🐧 **Linux Environment**
+- 🐳 **Docker & Containerization**
+- 📡 **IoT with ESP32**
+- 📊 **AI / ML Fundamentals**
 
-> **Tech Stack:** ESP32 | Python | BLE | Machine Learning
-
-- Built an indoor localization system using Bluetooth Low Energy signals.
-- Processed RSSI data and improved positioning accuracy using lightweight ML models.
-- Designed for smart buildings and indoor navigation assistance.
-
----
-
-## 🤖 AI Voice Assistant for Smart Devices
-
-> **Tech Stack:** Python | Speech Recognition | Embedded AI
-
-- Developed a mini AI assistant capable of voice interaction and smart device control.
-- Integrated hardware modules with intelligent response logic.
-- Optimized for real-time processing and low-resource deployment.
+<br/>
 
 ---
 
-## 🌐 IoT Environmental Monitoring Platform
+# 🚀 Highlight Project
 
-> **Tech Stack:** ESP32 | MQTT | Firebase | Dashboard UI
+## 📍 BLE RSSI Indoor Positioning System
 
-- Created a real-time monitoring platform for temperature, humidity, and air quality.
-- Streamed sensor data to cloud services and visualized analytics via dashboards.
-- Improved remote monitoring and alert capabilities.
+> **Tech Stack:** ESP32 | BLE | RSSI | Python | Machine Learning
+
+- Developed an indoor positioning system based on **Bluetooth Low Energy RSSI signals**.
+- Collected and processed RSSI data to estimate indoor location.
+- Applied lightweight data processing and machine learning concepts to improve positioning accuracy.
+- Designed the system for indoor navigation and smart environment applications.
+
+<br/>
 
 ---
 
@@ -83,26 +81,40 @@
 
 ## 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,matlab" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" alt="Programming Languages"/>
+</a>
 
----
+<br/>
 
-## ⚡ Embedded & IoT
+## 🧪 Testing & QA Orientation
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+<img src="https://img.shields.io/badge/Software%20Testing-FF69B4?style=for-the-badge&logo=testinglibrary&logoColor=white"/>
+<img src="https://img.shields.io/badge/QA%20Mindset-8B5CF6?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Test%20Case%20Design-EC4899?style=for-the-badge&logo=googledocs&logoColor=white"/>
 
+<br/>
+
+## 🤖 AI / ML & IoT
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,arduino" alt="AI and IoT"/>
+</a>
 <br/><br/>
-
 <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white"/>
+<img src="https://img.shields.io/badge/BLE%20RSSI-3B82F6?style=for-the-badge&logo=bluetooth&logoColor=white"/>
 
----
+<br/>
 
-## ☁️ Tools & Platforms
+## ☁️ Cloud & Tools
 
-<img src="https://skillicons.dev/icons?i=git,linux,firebase,vscode" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,vscode,linux,docker" alt="Cloud and Tools"/>
+</a>
 
 </div>
+
+<br/>
 
 ---
 
@@ -110,15 +122,27 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=quynhchi&show_icons=true&theme=radical&hide_border=true&border_radius=15"/>
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=quynhch…cons=true&theme=tokyonight&hide_border=true&border_radius=15" 
+    alt="GitHub Stats"
+  />
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?usern…t=compact&theme=tokyonight&hide_border=true&border_radius=15" 
+    alt="Top Languages"
+  />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quynhchi&layout=compact&theme=radical&hide_border=true&border_radius=15"/>
+  <br/><br/>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=quynhchi&theme=tokyo-night&hide_border=true&area=true"/>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=quynhchi03&theme=tokyo-night&hide_border=true&area=true" 
+    alt="GitHub Activity Graph"
+  />
 
 </div>
+
+<br/>
 
 ---
 
@@ -126,28 +150,24 @@
 
 <div align="center">
 
-<a href="#">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://www.facebook.com/chi.chi.138735/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="mailto:tranthiquynhchi0703@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 
 </div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=24,20,17,12&text=Thanks%20for%20visiting%20my%20profile!&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=14…&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
+    alt="Footer Wave"
+  />
 
 </div>
